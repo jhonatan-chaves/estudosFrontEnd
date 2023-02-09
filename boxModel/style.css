@@ -1,0 +1,12 @@
+h1{
+  background: #211410;
+  color: aquamarine;
+}
+div{
+  background: rgb(211, 63, 171);
+  color: blue;
+  width: 400px;
+  height: 60px;
+  border: 2px solid #000;
+
+}
