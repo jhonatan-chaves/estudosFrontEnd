@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  font-family: Arial;
+}
+h1{
+  text-align: center;
+}
+
+div{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+  height: 150px;
+  border-radius: 4px;
+  width: 800px;
+  margin-left: 20px;
+  color: white;
+  background: black;
+
+  
+}
+p{
+  margin-left: 20px;
+  color:gray ;
+}
+
+.dinheiro{
+  color: yellow;
+}
+
+.informacao{
+  color: rgb(184, 134, 11);
+}
+button{
+  font-size: 20px;
+  border-radius: 4px;
+  margin-left: 20px;
+  color: black;
+  background:  rgb(189, 180, 65) ;
+  
+}
+h2{
+  padding-top: 20px;
+  margin-left: 20px;
+}
