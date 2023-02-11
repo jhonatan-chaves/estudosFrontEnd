@@ -1,15 +1,16 @@
+/*
+meu codigo
+*/
 body{
-  margin: 0;
+  margin: 50px;
   font-family: Arial;
 }
 h1{
   text-align: center;
 }
 
-div{
- display: flex;
- align-items: center;
- justify-content: center;
+.div1{
+
   height: 150px;
   border-radius: 4px;
   width: 800px;
@@ -17,9 +18,9 @@ div{
   color: white;
   background: black;
 
-  
+
 }
-p{
+.p1{
   margin-left: 20px;
   color:gray ;
 }
@@ -37,9 +38,39 @@ button{
   margin-left: 20px;
   color: black;
   background:  rgb(189, 180, 65) ;
-  
+
 }
-h2{
+.h21{
   padding-top: 20px;
   margin-left: 20px;
+}
+/*
+codigo do meu curso
+*/
+
+
+span{
+  color: #febe01;
+}
+a{
+  display: inline-block;
+  color: #332200;
+  background: #febe01;
+  border-radius: 4px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.div2{
+  color: #fff;
+  padding: 30px;
+  background: #111;
+  margin: 20px;
+  border-radius: 4px;
+}
+.p2{
+  color: #b2b2b2;
+}
+.h22{
+  margin: 0px;
 }
