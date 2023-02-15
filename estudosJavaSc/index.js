@@ -1,33 +1,27 @@
+//exercicios aula 1
+console.log("================== exercicios 1 ================")
 
+let nome = 'jhonatan';
+console.log(nome);
+let idade = 25;
+ console.log(idade);
+let pizza;
+pizza = 'amo de paixão a pizza';
 
-function soma(num1,num2) {
-    return num1 + num2  
-    
-}
+console.log(pizza);
 
+let logradouro, cidade, numero, cep, bairro;
 
-function subtracao(num1,num2) {
-  return num1 - num2  
-  
-}
+logradouro = 'rua cardoso moreira';
+cidade = ' campos dos goytacazes';
+cep =  '2288454878';
+numero = 222;
+bairro = ' turf';
 
-function multiplicacao(num1,num2) {
-  return num1 * num2  
-  
-}
+console.log(logradouro, cidade, cep, numero, bairro);
 
-function divisao(num1,num2) {
-  return num1 / num2  
-  
-}
-
-console.log(`soma:${soma(25,75)}`);
-console.log("====================================")
-console.log(`subtração: ${subtracao(25,5)}`);
-console.log("====================================")
-console.log(`multiplicação: ${multiplicacao(10,20)}`);
-console.log("====================================")
-console.log(`divisão: ${divisao(20,5)}`);
+console.log("===================================")
+console.log("===================================")
 
 
 
